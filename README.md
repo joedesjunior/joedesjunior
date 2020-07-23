@@ -51,7 +51,7 @@
 
 * Java
 
-### 📘 Contato e NetWorking 📘
+### 📬 Contato e NetWorking 📬
 
 * ✉️Email: joedesjunior@gmail.com
 
