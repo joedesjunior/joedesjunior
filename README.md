@@ -51,3 +51,11 @@
 
 * Java
 
+### 📘 Contato e NetWorking 📘
+
+* ✉️Email: joedesjunior@gmail.com
+
+* 💼LinkedIn: https://www.linkedin.com/in/joedes-junior-965183198/
+
+* 👓Instagram: https://www.instagram.com/_freitasjr/?hl=pt-br
+
