@@ -2,7 +2,7 @@
 
 > Me chamo Joedes Souza de Freitas Junior, atualmente sou Desenvolvedor de Sistemas Junior. 
 
-### Formação Acadêmica
+### 📘 Formação Acadêmica 📘
 
 * Escola Municial de Ensino Técnico Dr. Solon Tavares - Técnico em Informática
 
@@ -35,7 +35,7 @@
 
 > Desenvolvimento BackEnd e FrontEnd;
 
-### Tecnologias
+### 📘 Tecnologias e Conhecimentos 📘
 
 * HTML
 
