@@ -2,9 +2,10 @@
 
 > Me chamo Joedes Souza de Freitas Junior, atualmente sou Desenvolvedor de Sistemas Junior. 
 
-### Educação
+### Formação
 
 * Escola Municial de Ensino Técnico Dr. Solon Tavares - Técnico em Informática
+
 > Lógica de Programação;
 
 > Programação Orientada a Objetos;
@@ -16,5 +17,21 @@
 > Java, PHP, JavaScript;
 
 
+* Universidade Internacional - Análise e Desenvolvimento de Sistemas.
 
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
+> Lógica de Programação;
+
+> Programação Orientada a Objetos;
+
+> Arquitetura de Software ;
+
+> Estrutura de Dados;
+
+> Arquitetura UML;
+
+> Análise de Requisitos e Gerenciamento de Projetos;
+
+> Análise de Requisitos e Gerenciamento de Projetos;
+
+> Desenvolvimento BackEnd e FrontEnd;
+
